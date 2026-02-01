@@ -1,5 +1,5 @@
 <?php
-namespace Waxedphp\Boilerplate;
+namespace Waxedphp\Mixitup;
 
 class Setter extends \Waxedphp\Waxedphp\Php\Setters\AbstractSetter {
 
@@ -8,7 +8,7 @@ class Setter extends \Waxedphp\Waxedphp\Php\Setters\AbstractSetter {
    */
   private array $setup = [
   ];
-  
+
   /**
    * allowed options
    *
