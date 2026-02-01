@@ -1,6 +1,6 @@
-# Name...
+# MixItUp
 
-... - within WaxedPHP environment.
+Mix It Up - within WaxedPHP environment.
 
 This package contains helper plugin functionality for WaxedPHP.
 All required third party sources will be downloaded to npm during composer installation.
